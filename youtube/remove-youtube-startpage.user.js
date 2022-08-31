@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Remove YouTube Startpage
 // @description  Redirect to Subscriptions Page
-// @version      0.3
+// @version      0.4
 // @author       hyperacuity
 // @match        https://www.youtube.com/*
 // @namespace    https://github.com/hyperacuity/userscripts
-// @icon         https://github.com/hyperacuity/userscripts/raw/main/assets/youtube.png
+// @icon         https://github.com/hyperacuity/userscripts/raw/main/assets/youtube.svg
 // @updateURL    https://github.com/hyperacuity/userscripts/raw/main/youtube/remove-youtube-startpage.user.js
 // @downloadURL  https://github.com/hyperacuity/userscripts/raw/main/youtube/remove-youtube-startpage.user.js
 // @run-at       document-start

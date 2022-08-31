@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Impair YouTube Shorts
 // @description  Redirect Shorts to normal YouTube Player
-// @version      0.3
+// @version      0.4
 // @author       hyperacuity
 // @match        https://www.youtube.com/*
 // @namespace    https://github.com/hyperacuity/userscripts
-// @icon         https://github.com/hyperacuity/userscripts/raw/main/assets/youtube.png
+// @icon         https://github.com/hyperacuity/userscripts/raw/main/assets/youtube.svg
 // @updateURL    https://github.com/hyperacuity/userscripts/raw/main/youtube/impair-youtube-shorts.user.js
 // @downloadURL  https://github.com/hyperacuity/userscripts/raw/main/youtube/impair-youtube-shorts.user.js
 // @run-at       document-start
