@@ -15,7 +15,7 @@
 (() => {
     'use strict';
 
-    function mobs_cb(muts, obs) {
+    function mobs_cb(muts, mobs) {
         if(window.location.pathname.startsWith("/shorts/")) {
             const url = new URL(window.location);
             url.searchParams.set("v", url.pathname.replace("/shorts/", ""));
@@ -27,7 +27,7 @@
     mobs_cb(null, null);
 
     window.addEventListener('load', (event) => {
-        console.info(`Loaded ${Date.now()}`);
+        console.info("Loaded");
         mobs_cb(null, null);
 
         const shorts_mobs = new MutationObserver(mobs_cb);

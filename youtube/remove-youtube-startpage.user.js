@@ -15,7 +15,7 @@
 (() => {
     'use strict';
 
-    function mobs_cb(muts, obs) {
+    function mobs_cb(muts, mobs) {
         if(window.location.pathname === "/"){
             window.location.pathname = "/feed/subscriptions";
         }
@@ -24,7 +24,7 @@
     mobs_cb(null, null);
 
     window.addEventListener('load', (event) => {
-        console.info(`Loaded ${Date.now()}`);
+        console.info("Loaded");
         mobs_cb(null, null);
 
         const start_mobs = new MutationObserver(mobs_cb);
