@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="2048"
+   height="512"
+   viewBox="0 0 2048 512"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="download.svg"
+   inkscape:export-filename="download.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="836.33898"
+     inkscape:cy="431.72881"
+     inkscape:window-width="2560"
+     inkscape:window-height="1355"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3"
+     showguides="true">
+    <sodipodi:guide
+       position="512,512"
+       orientation="-1,0"
+       id="guide1986"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="256,512"
+       orientation="-1,0"
+       id="guide1990"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="0,256"
+       orientation="0,1"
+       id="guide1992"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="1979.5,256"
+       orientation="-1,0"
+       id="guide2012"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1984"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,1,0,1,0,0.1,0,1 @ F,1,0,1,0,0.1,0,1 @ F,1,0,1,0,0.1,0,1 @ F,1,0,1,0,0.1,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="10"
+       chamfer_steps="1"
+       flexible="true"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1982"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,256,0,1 @ F,0,0,1,0,240.81356,0,1 @ F,0,0,1,0,256.00011,0,1 @ F,0,0,1,0,256,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="true"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <rect
+       x="954.57629"
+       y="99.796608"
+       width="1488.2712"
+       height="412.2034"
+       id="rect790" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:439.92"
+       id="rect1252"
+       width="2048"
+       height="512"
+       x="0"
+       y="0"
+       sodipodi:type="rect"
+       inkscape:path-effect="#path-effect1984"
+       d="m 204.8,0 h 1792 a 51.2,51.2 45 0 1 51.2,51.2 v 256 A 204.8,204.8 135 0 1 1843.2,512 H 51.2 A 51.2,51.2 45 0 1 0,460.8 v -256 A 204.8,204.8 135 0 1 204.8,0 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <path
+       d="M 256,68.5 C 152.6875,68.5 68.5,152.6875 68.5,256 68.5,359.3125 152.6875,443.5 256,443.5 359.3125,443.5 443.5,359.3125 443.5,256 443.5,152.6875 359.3125,68.5 256,68.5 Z m -18.75,150 v -75 h 37.5 v 75 H 331 l -75,75 -75,-75 z m 112.5,131.25 h -187.5 v -37.5 h 187.5 z"
+       id="path848"
+       style="stroke-width:18.75" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3">
+    <text
+       xml:space="preserve"
+       id="text788"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:303.37px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect790);display:inline"
+       transform="matrix(1.0215935,0,0,1.0215935,-487.98251,-16.87099)"><tspan
+         x="954.57617"
+         y="382.68703"
+         id="tspan2050">Download</tspan></text>
+  </g>
+</svg>
