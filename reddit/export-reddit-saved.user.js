@@ -121,7 +121,7 @@ async function hashMessage(msg) {
             var content = JSON.stringify(request.result);
 
             var name = "saved-content-by-"+username+'.json';
-            var type = 'text/plain';
+            var type = 'application/json';
             var a = document.getElementById("download-export-saved");
             var file = new Blob([content], {type: type});
             var furl = URL.createObjectURL(file);
