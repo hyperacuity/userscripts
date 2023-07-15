@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name          Export Saved Reddit Content
-// @ description  Visit https://old.reddit.com/user/me and click on the saved tab, wait, and download json
-// @ version      0.2
-// @ author       hyperacuity
+// @description  Visit https://old.reddit.com/user/me and click on the saved tab, wait, and download json
+// @version      0.2
+// @author       hyperacuity
 // @match         https://old.reddit.com/user/*/saved*
-// @ namespace    https://github.com/hyperacuity/userscripts
-// @ updateURL    https://github.com/hyperacuity/userscripts/raw/main/reddit/export-reddit-saved.user.js
-// @ downloadURL  https://github.com/hyperacuity/userscripts/raw/main/reddit/export-reddit-saved.user.js
-// @ grant        none
+// @namespace    https://github.com/hyperacuity/userscripts
+// @updateURL    https://github.com/hyperacuity/userscripts/raw/main/reddit/export-reddit-saved.user.js
+// @downloadURL  https://github.com/hyperacuity/userscripts/raw/main/reddit/export-reddit-saved.user.js
+// @grant        none
 // ==/UserScript==
 
 
