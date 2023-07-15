@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          Export Saved Reddit Content
 // @description  Visit https://old.reddit.com/user/me and click on the saved tab, wait, and download json
-// @version      0.2
+// @version      0.3
 // @author       hyperacuity
 // @match         https://old.reddit.com/user/*/saved*
 // @namespace    https://github.com/hyperacuity/userscripts
